@@ -9,7 +9,7 @@
 
 **From Zero to Hero - All Lessons Completed**
 
-[⭐ Star this Repo](https://github.com/ggauravky/JAVA-step-by-step) • [🍴 Fork It](https://github.com/ggauravky/JAVA-step-by-step/fork) • [📝 Report Issue](https://github.com/ggauravky/JAVA-step-by-step/issues)
+[⭐ Star this Repo](https://github.com/ktirumalaachari/Java-Complete-Course) • [📝 Report Issue](https://github.com/ktirumalaachari/issues)
 
 </div>
 
