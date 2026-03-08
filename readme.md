@@ -237,19 +237,9 @@ This project is licensed under the **MIT License** - feel free to use for learni
 
 ---
 
-## 🌟 Show Your Support
-
-If this repository helped you learn Java:
-
-⭐ **Star** this repository
-🍴 **Fork** for your reference
-📢 **Share** with fellow learners
-🤝 **Contribute** to improve it
-
----
-
+<div align="center">
+    
 ## 👨‍💻 Author
-
 **K Tirumala Achari**  
 Full Stack Developer
 
@@ -257,8 +247,6 @@ Full Stack Developer
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat&logo=google)](https://ktirumalaachari.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-ktirumalaachari@gmail.com-red?style=flat&logo=gmail)](ktirumalaachari@gmail.com)
 [![University](https://img.shields.io/badge/NIST-University-orange?style=flat)](https://www.nist.edu/)
-
- <div align="center">
 
 ### 🎉 Course Completed Successfully! 🎉
 
