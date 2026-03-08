@@ -101,10 +101,10 @@ This repository contains a **complete Java programming course** following the **
 
 ```bash
 # Clone the repository
-git clone https://github.com/ggauravky/JAVA-step-by-step.git
+git clone https://github.com/ktirumalaachari/Java-Complete-Course.git
 
 # Navigate to the folder
-cd "JAVA-step-by-step"
+cd "Java-Complete-Course"
 
 # Choose any lesson (example: L10 Array)
 cd "L10 Array"
